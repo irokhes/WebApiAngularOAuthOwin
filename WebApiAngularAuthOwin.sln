@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAngular.Api", "WebApiAngular.Api\WebApiAngular.Api.csproj", "{0D170CC7-1BD1-46E5-808F-17A76FB7A6F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAngular.Web", "WebApiAngular.Web\WebApiAngular.Web.csproj", "{AB071E38-0D5D-4536-8AD8-7AD8A6D3A7F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D170CC7-1BD1-46E5-808F-17A76FB7A6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D170CC7-1BD1-46E5-808F-17A76FB7A6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D170CC7-1BD1-46E5-808F-17A76FB7A6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB071E38-0D5D-4536-8AD8-7AD8A6D3A7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB071E38-0D5D-4536-8AD8-7AD8A6D3A7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB071E38-0D5D-4536-8AD8-7AD8A6D3A7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB071E38-0D5D-4536-8AD8-7AD8A6D3A7F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
